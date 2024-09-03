@@ -1,0 +1,11 @@
+.PostHeader {
+    background-color: white;
+    margin-top: 50px !important;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+  
+  }
+  

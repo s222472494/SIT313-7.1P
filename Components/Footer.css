@@ -1,0 +1,21 @@
+.FooterSegment {
+  padding: 20px;
+  background-color: white;
+  margin-top: 100px !important;
+}
+
+.SignupSegment {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  background-color: rgb(164, 163, 163) !important;
+}
+
+.SignupSegment .ui.input {
+  flex-grow: 1;
+  max-width: 300px;
+}
+
+  
+  

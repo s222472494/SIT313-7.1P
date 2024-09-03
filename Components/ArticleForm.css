@@ -1,0 +1,31 @@
+.TitleField{
+    margin-top: 20px !important;
+    background-color: #f0f0f0; 
+    padding: 5px; 
+}
+
+.AbstractField{
+    margin-top: 20px !important;
+    background-color: #f0f0f0; 
+    padding: 5px; 
+}
+
+.ContentField{
+    margin-top: 20px !important;
+    background-color: #f0f0f0; 
+    padding: 5px; 
+}
+
+
+
+.TagField{
+    margin-top: 20px !important;
+    background-color: #f0f0f0; 
+    padding: 5px; 
+}
+
+.PostButton{
+    display: block !important;
+    margin: 0% auto !important;
+}
+

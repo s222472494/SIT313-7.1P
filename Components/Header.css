@@ -1,0 +1,38 @@
+.Header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: grey;
+  width: 100%;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+
+.LogoLink {
+  text-decoration: none; 
+}
+
+.Logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 20px;
+  color: black; 
+  cursor: pointer; 
+  transition: color 0.3s ease; 
+}
+
+.Logo:hover {
+  color: rgb(243, 74, 74); /* Color change on hover */
+}
+
+.Search {
+  flex-grow: 1;
+  max-width: 800px;
+  margin-right: 20px;
+}
+
+.ButtonContainer {
+  display: flex;
+  gap: 10px;
+}
+
